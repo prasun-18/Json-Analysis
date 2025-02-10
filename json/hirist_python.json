@@ -1,0 +1,83 @@
+[
+  {
+    "jobs": [
+      {
+        "url": "https://www.hirist.tech/j/python-developer-numpypandas-5-6-yrs-1426631.html",
+        "title": "Python Developer - Numpy/Pandas",
+        "salary": "",
+        "company": "TGS The Global Skills",
+        "location": "Others",
+        "skillset": "Python, Numpy, Pandas, ETL, Data Ingestion, Data Integration, PySpark",
+        "date of posting": "24/1/2025",
+        "job_description": "We are seeking a skilled Python Developer with experience to join our dynamic team. The ideal candidate will have extensive experience in handling and processing large datasets, developing high-performance applications, and working with the latest Python libraries and tools for optimized performance. As a Python Developer, you will collaborate with engineers, and other stakeholders to build scalable, efficient, and secure systems that can process massive amounts of data quickly and effectively.\n\nResponsibilities :\n- Design, develop, and maintain Python-based applications for handling large datasets and ensuring high performance.\n- Optimize and refactor existing code to improve scalability, processing speed, and efficiency.\n- Collaborate with the data engineering team to integrate data sources, and transform and clean data for analysis.\n- Utilize multithreading, parallel processing, and asynchronous programming to ensure optimized handling of large data volumes.\n- Implement robust data pipelines using ETL processes for smooth data ingestion and transformation.\n- Work with the latest Python libraries and frameworks such as Pandas, NumPy, Polars, etc. to streamline data processing tasks.\n- Ensure code quality through unit testing, code reviews, and continuous integration.\n- Stay updated with the latest developments in Python and related tools, suggesting improvements to the tech stack.\n\nRequirements :\n- Bachelor's or Master's Degree in Computer Science, Engineering, or a related field.\n- 5-6 years of experience in Python development, with a focus on data-intensive applications.\n- Strong understanding of Python's core libraries and frameworks for data manipulation (e. g., Pandas, NumPy, Dask, PySpark).\n- Experience with database systems like SQL, and NoSQL databases like Cassandra, and PostgreSQL.\n- Hands-on experience in asynchronous programming, multithreading, and parallel computing.\n- Proficiency in writing optimized code for high-performance data processing.\n- Experience with data pipelines, ETL processes, and API integration.\n- Excellent problem-solving skills with a strong understanding of algorithms and data structures.\n- Knowledge of version control systems like Git.",
+        "experience_required": "5 - 6 Years"
+      },
+      {
+        "url": "https://www.hirist.tech/j/python-developer-3-5-yrs-1234567.html",
+        "title": "Python Developer",
+        "salary": "$80,000 - $100,000",
+        "company": "Tech Company A",
+        "location": "Remote",
+        "skillset": "Python, Django, REST APIs",
+        "date of posting": "2025-02-01",
+        "job_description": "We are looking for a Python Developer to join our team. The ideal candidate will have experience in developing web applications using Python and Django.",
+        "experience_required": "3-5 Years"
+      },
+      {
+        "url": "https://www.hirist.tech/j/senior-python-engineer-5-7-yrs-1234568.html",
+        "title": "Senior Python Engineer",
+        "salary": "$120,000 - $150,000",
+        "company": "Tech Company B",
+        "location": "New York, NY",
+        "skillset": "Python, AWS, Microservices",
+        "date of posting": "2025-02-02",
+        "job_description": "Seeking a Senior Python Engineer to lead our development team. Must have strong experience in Python and cloud technologies.",
+        "experience_required": "5-7 Years"
+      },
+      {
+        "url": "https://www.hirist.tech/j/python-data-scientist-2-4-yrs-1234569.html",
+        "title": "Python Data Scientist",
+        "salary": "$100,000 - $130,000",
+        "company": "Tech Company C",
+        "location": "San Francisco, CA",
+        "skillset": "Python, Machine Learning, Data Analysis",
+        "date of posting": "2025-02-03",
+        "job_description": "Looking for a Python Data Scientist to analyze data and build predictive models. Experience with machine learning is a plus.",
+        "experience_required": "2-4 Years"
+      },
+      {
+        "url": "https://www.hirist.tech/j/python-backend-developer-4-6-yrs-1234570.html",
+        "title": "Python Backend Developer",
+        "salary": "$90,000 - $110,000",
+        "company": "Tech Company D",
+        "location": "Austin, TX",
+        "skillset": "Python, Flask, SQL",
+        "date of posting": "2025-02-04",
+        "job_description": "Join our team as a Python Backend Developer. Experience with Flask and SQL databases is required.",
+        "experience_required": "4-6 Years"
+      },
+      {
+        "url": "https://www.hirist.tech/j/python-automation-engineer-3-5-yrs-1234571.html",
+        "title": "Python Automation Engineer",
+        "salary": "$85,000 - $105,000",
+        "company": "Tech Company E",
+        "location": "Chicago, IL",
+        "skillset": "Python, Selenium, Automation",
+        "date of posting": "2025-02-05",
+        "job_description": "We are seeking a Python Automation Engineer to develop automated testing frameworks. Experience with Selenium is preferred.",
+        "experience_required": "3-5 Years"
+      },
+      {
+        "url": "https://www.hirist.tech/j/python-full-stack-developer-5-8-yrs-1234572.html",
+        "title": "Python Full Stack Developer",
+        "salary": "$110,000 - $140,000",
+        "company": "Tech Company F",
+        "location": "Seattle, WA",
+        "skillset": "Python, JavaScript, React",
+        "date of posting": "2025-02-06",
+        "job_description": "Looking for a Python Full Stack Developer with experience in both frontend and backend technologies.",
+        "experience_required": "5-8 Years"
+      }
+    ]
+  }
+]

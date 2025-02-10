@@ -1,0 +1,138 @@
+[
+  {
+    "jobs": [
+      {
+        "url": "https://www.guru.com/jobs/need-ai-developer/2101321",
+        "title": "Need AI Developer",
+        "salary": "",
+        "company": "",
+        "location": "",
+        "skillset": "Programming & Development, Programming & Software, Open Source, Data Management, Automation Engineering, Artificial Intelligence",
+        "date of posting": "2025-02-07",
+        "job_description": "We are a forward-thinking company dedicated to leveraging cutting-edge technologies to drive business.",
+        "experience_required": ""
+      },
+      {
+        "url": "https://www.guru.com/jobs/servicenow-automations-product-release/2101319",
+        "title": "ServiceNow automations Product release",
+        "salary": "$250-$500",
+        "company": "",
+        "location": "",
+        "skillset": "Programming & Development, Technical Support / Help Desk (Hardware / Software), Microsoft, Ticketing Software, Automation Engineering, Information Technology",
+        "date of posting": "2025-02-06",
+        "job_description": "Need someone to help build a AI based automation that will integrate with ServiceNow.",
+        "experience_required": ""
+      },
+      {
+        "url": "https://www.guru.com/jobs/looking-for-a-graphic-designer/2101271",
+        "title": "Looking For a Graphic Designer",
+        "salary": "Under $250",
+        "company": "",
+        "location": "",
+        "skillset": "Design & Art, Graphic & Layout Design, Graphic Design, Logo Design, Creative Design, Ideation",
+        "date of posting": "2025-02-06",
+        "job_description": "I'm looking for a Graphic Designers Freelancer is preferred to be Native Arabic.",
+        "experience_required": ""
+      },
+      {
+        "url": "https://www.guru.com/jobs/script-for-afk-check-on-a-web-game/2101274",
+        "title": "Script for Afk check on a web game",
+        "salary": "Under $250",
+        "company": "",
+        "location": "",
+        "skillset": "Programming & Development, Programming & Software, C++, JavaScript, Python, Programming",
+        "date of posting": "2025-02-05",
+        "job_description": "I am looking for someone to solve a problem for me, I am looking to get around a afk check.",
+        "experience_required": ""
+      },
+      {
+        "url": "https://www.guru.com/jobs/draw-cougar-in-action/2101177",
+        "title": "Draw Cougar in Action",
+        "salary": "Under $250",
+        "company": "",
+        "location": "",
+        "skillset": "Design & Art, Graphic & Layout Design, Drawing",
+        "date of posting": "2025-02-05",
+        "job_description": "Draw a cougar holding an Olympic Torch in action walking.",
+        "experience_required": ""
+      },
+      {
+        "url": "https://www.guru.com/jobs/long-term-full-stack-php-dev-wanted/2101167",
+        "title": "Long-Term Full-Stack PHP Dev Wanted",
+        "salary": "$5 - $50",
+        "company": "",
+        "location": "",
+        "skillset": "Programming & Development, Programming & Software, JavaScript, PHP, MySQL, Ai",
+        "date of posting": "2025-02-05",
+        "job_description": "This position is for independent developers only—no agencies. I'm looking for a skilled full-stack PHP developer.",
+        "experience_required": ""
+      },
+      {
+        "url": "https://www.guru.com/jobs/executive-assistant-to-the-ceo/2101156",
+        "title": "Executive Assistant to the CEO",
+        "salary": "Not Sure",
+        "company": "",
+        "location": "",
+        "skillset": "Administrative & Secretarial, Personal / Virtual Assistance, Administrative Assistant, Calendar Management, Records Management, Research",
+        "date of posting": "2025-02-05",
+        "job_description": "As the Executive Assistant to the CEO, you will be at the core of ensuring seamless operations.",
+        "experience_required": ""
+      },
+      {
+        "url": "https://www.guru.com/jobs/senior-salesforce-developer-needed/2101146",
+        "title": "Senior Salesforce Developer Needed",
+        "salary": "$5k-$10k",
+        "company": "",
+        "location": "",
+        "skillset": "Programming & Development, ERP / CRM / SCM, Salesforce",
+        "date of posting": "2025-02-05",
+        "job_description": "We're seeking a visionary Salesforce Implementation Architect.",
+        "experience_required": ""
+      },
+      {
+        "url": "https://www.guru.com/jobs/ai-integration-for-construction-platform/2099407",
+        "title": "AI Integration For Construction Platform",
+        "salary": "",
+        "company": "Mcbonn N",
+        "location": "United States",
+        "skillset": "API Integration, AI Development, Backend Development",
+        "date of posting": "January 30, 2025",
+        "job_description": "We are building a cutting-edge platform that connects homeowners with contractors for remodeling and construction projects. A key feature of the platform is an AI assistant that generates instant, itemized quotes based on user-provided project details (photos, descriptions, etc.). We are seeking a specialist to handle the integration of OpenAI’s ChatGPT API and develop the backend infrastructure to support this functionality. The role requires expertise in backend systems, API integrations, and ensuring data flows seamlessly between the front-end (handled via Webflow or similar) and the AI system. This is a project-based role with clear deliverables and opportunities for future collaboration as the platform evolves. Responsibilities: • Integrate OpenAI’s ChatGPT API to: - Process user inputs (text and optional photos). - Generate itemized quotes for construction projects using predefined data rules. • Design and implement a secure, scalable backend to: - Handle user-submitted data from the Webflow front-end. - Communicate with the AI API and store/retrieve data as needed. • Validate user inputs to ensure accuracy and relevance before sending data to the AI. • Develop and expose API endpoints for future functionality and scalability. • Implement security measures to protect sensitive data (e.g., user submissions, project details). • Work collaboratively with the front-end developer (internal) and other team members.",
+        "experience_required": ""
+      },
+      {
+        "url": "https://www.guru.com/jobs/ai-powered-multi-platform-app-developmen/2100633",
+        "title": "AI-powered Multi-Platform App Development",
+        "salary": "",
+        "company": "Neuraface",
+        "location": "Czech Republic",
+        "skillset": "AI, Mobile Development, React Native",
+        "date of posting": "2025-02-07",
+        "job_description": "Beat AI Lawyer is a mobile game powered by AI, where players challenge an AI lawyer in a simplified courtroom setting. The game will be developed using React Native or another multi-platform framework. I’m looking for a developer capable of building an AI-powered app. I already have a polished design prepared in Figma, complete with detailed descriptions, assets, and all the necessary content. If our collaboration goes well, there will be opportunities for future updates and additional projects.",
+        "experience_required": ""
+      },
+      {
+        "url": "https://www.guru.com/jobs/ai-bot-integrates-with-setmorehomepage/2100305",
+        "title": "AI Bot Integrates With Setmore/Homepage",
+        "salary": "",
+        "company": "David M",
+        "location": "United States",
+        "skillset": "AI integration, OpenAI, Setmore, communication skills",
+        "date of posting": "2025-02-07",
+        "job_description": "We are seeking an experienced AI specialist to integrate an OpenAI-based AI Assistant into your homepage and connect it with OpenPhone via Zapier or another way. The assistant should manage: 1. Appointment Scheduling: Schedule, reschedule, and send reminders. 2. Customer Support: Handle general inquiries and customer concerns. 3. General Inquiries: Address non-specific user questions. Ideal Candidate Requirements: - Expertise in AI integration (especially OpenAI and Setmore). - Comprehensive understanding of AI functionalities. - Excellent communication skills for understanding and delivering project requirements.",
+        "experience_required": ""
+      },
+      {
+        "url": "https://www.guru.com/jobs/ai-opensource-setup-with-vultr/2100723",
+        "title": "Developer Needed: DeepSeek R1 Implementation Specialist",
+        "salary": "Fixed Price",
+        "company": "Wolf K",
+        "location": "United States",
+        "skillset": "DeepSeek R1, Python, ML frameworks, Vultr, knowledge base systems, NLP",
+        "date of posting": "2025-02-07T06:45:49.938Z",
+        "job_description": "Seeking an experienced developer to implement and configure DeepSeek R1 Open Source on an existing Vultr Cloud Hosting Platform. The primary goal is to establish a functional knowledge base system for content generation. Key Responsibilities: Install and configure DeepSeek R1 Open Source on pre-configured Vultr cloud server, Set up and optimize the knowledge base integration system, Implement content generation capabilities, Ensure proper system performance and stability, Document the setup process and provide basic operational guidelines. Required Technical Skills: Strong knowledge of Python and ML frameworks, Experience with cloud platforms, specifically Vultr, Familiarity with knowledge base systems and vector databases, Understanding of content generation systems and NLP. Technical Environment: Platform: Vultr Cloud Hosting (server already configured), Primary Technology: DeepSeek R1 Open Source, Focus: Knowledge base integration and content generation. Project Deliverables: Fully functional DeepSeek R1 installation, Integrated knowledge base system, Content generation capability, Basic documentation and setup guidelines, Knowledge transfer session. Timeline: Short-term project (specify your preferred timeline) Immediate start available.",
+        "experience_required": "Proven experience with LLM deployments and fine-tuning"
+      }
+    ]
+  }
+]

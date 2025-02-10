@@ -1,0 +1,402 @@
+[
+  {
+    "jobs": [
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Data-Analytics-and-Visualization-Expert-Needed_~021885407075761176079",
+        "title": "Data Analytics and Visualization Expert Needed",
+        "salary": "$150.00",
+        "company": "",
+        "location": "Remote",
+        "skillset": "Data Visualization, Tableau, Data Analysis, Microsoft Excel, Google Analytics",
+        "date of posting": "2025-01-31",
+        "job_description": "We are seeking a skilled data analyst who can assist us with data analytics and visualization tasks. The ideal candidate will have experience in interpreting complex data sets and presenting insights through compelling visualizations. You will work closely with our team to transform data into actionable strategies that support our business goals. If you have a strong analytical mindset and proficiency in tools like Tableau, Power BI, or similar, we would love to hear from you.",
+        "experience_required": "Intermediate"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Data-Scientist-for-Healthcare-Dataset-Analysis_~021884970607604190296/",
+        "title": "Data Scientist for Healthcare Dataset Analysis",
+        "salary": "",
+        "company": "",
+        "location": "Temple City, CA",
+        "skillset": "Data Science, Python, Statistics, R, Data Analysis",
+        "date of posting": "2025-01-30",
+        "job_description": "We are seeking a skilled data scientist to analyze a large healthcare dataset. The primary objective is to synthesize findings and publish results.",
+        "experience_required": "Intermediate"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Merging-and-Filtering-Data-Python_~021880161727948052362/",
+        "title": "Merging and Filtering Data in Python",
+        "salary": "",
+        "company": "",
+        "location": "Temple City, CA",
+        "skillset": "Data Science, Python",
+        "date of posting": "2025-01-17",
+        "job_description": "Merging and filtering data by variables. Two different merged datasets are needed by criteria, and have the code already, but needs some adjustments.",
+        "experience_required": "Intermediate"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Machine-Learning-PyTorch-Mentor-for-Month-Ramp_~021883943942078839452/",
+        "title": "Machine Learning / PyTorch Mentor for a 3-Month Ramp-Up",
+        "salary": "",
+        "company": "",
+        "location": "Temple City, CA",
+        "skillset": "Data Science, Artificial Neural Network, Neural Network, Python, PyTorch",
+        "date of posting": "2025-01-27",
+        "job_description": "I want to master machine learning in 3 months, and I need a tutor: I'm looking for an experienced Machine Learning expert with strong knowledge in PyTorch.",
+        "experience_required": "Intermediate"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Data-Engineer-Needed-for-Data-Pipeline-Management_~021885107595481925634/",
+        "title": "Data Engineer Needed for Data Pipeline Management",
+        "salary": "",
+        "company": "",
+        "location": "Temple City, CA",
+        "skillset": "Data Science, Microsoft Excel, Big Data, Python, ETL Pipeline",
+        "date of posting": "2025-01-31",
+        "job_description": "We are seeking an experienced Data Engineer to help manage and optimize our data pipeline. The ideal candidate will have a strong background in data engineering.",
+        "experience_required": "Intermediate"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Python-Data-Visualization-and-Analysis-Specialist_~021885399400443400706/",
+        "title": "Python Data Visualization and Analysis Specialist",
+        "salary": "$100",
+        "company": "",
+        "location": "Temple City, CA",
+        "skillset": "Data Science, Microsoft Excel, Data Analysis, Python",
+        "date of posting": "2025-02-01",
+        "job_description": "We are seeking a Python expert to assist in plotting data for enhanced visualization and analysis. The ideal candidate will help implement effective data visualization techniques.",
+        "experience_required": "Intermediate"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Advanced-RAG-Scientist-Needed-for-Innovative-Projects_~021883923144878969391/",
+        "title": "Advanced RAG Scientist Needed for Innovative Projects",
+        "salary": "",
+        "company": "",
+        "location": "Temple City, CA",
+        "skillset": "Data Science, Data Analysis, Statistics, Python",
+        "date of posting": "2025-01-27",
+        "job_description": "My lead engineer is building a dynamic RAG processing / decision engine to interpret the intent from a user in order to decide which RA to use.",
+        "experience_required": "Expert"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Developer-Wizard-Needed-Supercharge-Creative-Content-Production_~021882184746523061000/",
+        "title": "Developer Wizard Needed to Supercharge Creative Content Production",
+        "salary": "",
+        "company": "",
+        "location": "Temple City, CA",
+        "skillset": "Data Science, Automation",
+        "date of posting": "2025-01-23",
+        "job_description": "We're a creative content production and post-production company. We bring ideas to life through stunning visuals, engaging animations, and more.",
+        "experience_required": "Intermediate"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Python-Developer-for-Geospatial-Data-Processing-Adjacency-Score-Calculations_~021886624693288180257/",
+        "title": "Python Developer for Geospatial Data Processing & Adjacency Score Calculations",
+        "salary": "",
+        "company": "",
+        "location": "Temple City, CA",
+        "skillset": "Data Science, Python",
+        "date of posting": "2025-02-04",
+        "job_description": "We are seeking a highly intelligent and detail-oriented Python developer to assist in calculating adjacency relations for geospatial data.",
+        "experience_required": "Intermediate"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Quantum-algorithms-for-molecular-prediction_~021876911520547613524/",
+        "title": "Quantum algorithms for molecular prediction",
+        "salary": "$2,600",
+        "company": "",
+        "location": "Temple City, CA",
+        "skillset": "Data Science, Algorithm Development, Artificial Neural Network",
+        "date of posting": "2025-01-08",
+        "job_description": "We are seeking a highly skilled and motivated Quantum Algorithm Developer to design, implement, and test a novel quantum algorithm for molecular prediction.",
+        "experience_required": "Expert"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Reinforcement-Learning-pattern-prediction_~021878842382111526254/",
+        "title": "Reinforcement Learning/ML pattern prediction",
+        "salary": "",
+        "company": "",
+        "location": "Temple City, CA",
+        "skillset": "Data Science, Deep Neural Network, Neural Network",
+        "date of posting": "2025-01-14",
+        "job_description": "I need a model trained on the CSV in the zip attached that can capture 4+ changes in the column 2 value between rows. Ideally, the captured model should be able to predict future patterns.",
+        "experience_required": "Intermediate"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Data-Scientist-for-Healthcare-Dataset-Analysis_~021884970607604190296/",
+        "title": "Data Scientist for Healthcare Dataset Analysis",
+        "salary": "",
+        "company": "",
+        "location": "Arcadia, CA",
+        "skillset": "Data Science, Python, Statistics, R, Data Analysis",
+        "date of posting": "2025-01-30",
+        "job_description": "We are seeking a skilled data scientist to analyze a large healthcare dataset. The primary objective is to synthesize findings and publish results.",
+        "experience_required": "Intermediate"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Merging-and-Filtering-Data-Python_~021880161727948052362/",
+        "title": "Merging and Filtering Data in Python",
+        "salary": "",
+        "company": "",
+        "location": "Arcadia, CA",
+        "skillset": "Data Science, Python",
+        "date of posting": "2025-01-17",
+        "job_description": "Merging and filtering data by variables. Two different merged datasets are needed by criteria, and have the code already, but needs some adjustments.",
+        "experience_required": "Intermediate"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Machine-Learning-PyTorch-Mentor-for-Month-Ramp_~021883943942078839452/",
+        "title": "Machine Learning / PyTorch Mentor for a 3-Month Ramp-Up",
+        "salary": "",
+        "company": "",
+        "location": "Arcadia, CA",
+        "skillset": "Data Science, Artificial Neural Network, Neural Network, Python, PyTorch",
+        "date of posting": "2025-01-27",
+        "job_description": "I want to master machine learning in 3 months, and I need a tutor: I'm looking for an experienced Machine Learning expert with strong knowledge in PyTorch.",
+        "experience_required": "Intermediate"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Data-Engineer-Needed-for-Data-Pipeline-Management_~021885107595481925634/",
+        "title": "Data Engineer Needed for Data Pipeline Management",
+        "salary": "",
+        "company": "",
+        "location": "Arcadia, CA",
+        "skillset": "Data Science, Microsoft Excel, Big Data, Python, ETL Pipeline",
+        "date of posting": "2025-01-31",
+        "job_description": "We are seeking an experienced Data Engineer to help manage and optimize our data pipeline. The ideal candidate will have a strong background in data engineering.",
+        "experience_required": "Intermediate"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Quantum-algorithms-for-molecular-prediction_~021876911520547613524/",
+        "title": "Quantum algorithms for molecular prediction",
+        "salary": "$2,600",
+        "company": "",
+        "location": "Arcadia, CA",
+        "skillset": "Data Science, Algorithm Development, Artificial Neural Network",
+        "date of posting": "2025-01-08",
+        "job_description": "We are seeking a highly skilled and motivated Quantum Algorithm Developer to design, implement, and test a novel quantum algorithm for molecular prediction.",
+        "experience_required": "Expert"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Advanced-RAG-Scientist-Needed-for-Innovative-Projects_~021883923144878969391/",
+        "title": "Advanced RAG Scientist Needed for Innovative Projects",
+        "salary": "",
+        "company": "",
+        "location": "Arcadia, CA",
+        "skillset": "Data Science, Data Analysis, Statistics, Python",
+        "date of posting": "2025-01-27",
+        "job_description": "My lead engineer is building a dynamic RAG processing / decision engine to interpret the intent from a user in order to decide which RAG to use.",
+        "experience_required": "Expert"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Developer-Wizard-Needed-Supercharge-Creative-Content-Production_~021882184746523061000/",
+        "title": "Developer Wizard Needed to Supercharge Creative Content Production",
+        "salary": "",
+        "company": "",
+        "location": "Arcadia, CA",
+        "skillset": "Data Science, Automation",
+        "date of posting": "2025-01-23",
+        "job_description": "We're a creative content production and post-production company. We bring ideas to life through stunning visuals, engaging animations, and more.",
+        "experience_required": "Intermediate"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Python-Developer-for-Geospatial-Data-Processing-Adjacency-Score-Calculations_~021886624693288180257/",
+        "title": "Python Developer for Geospatial Data Processing & Adjacency Score Calculations",
+        "salary": "",
+        "company": "",
+        "location": "Arcadia, CA",
+        "skillset": "Data Science, Python",
+        "date of posting": "2025-02-04",
+        "job_description": "We are seeking a highly intelligent and detail-oriented Python developer to assist in calculating adjacency relations for geospatial data.",
+        "experience_required": "Intermediate"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Python-Data-Visualization-and-Analysis-Specialist_~021885399400443400706/",
+        "title": "Python Data Visualization and Analysis Specialist",
+        "salary": "$100",
+        "company": "",
+        "location": "Arcadia, CA",
+        "skillset": "Data Science, Microsoft Excel, Data Analysis, Python",
+        "date of posting": "2025-02-01",
+        "job_description": "We are seeking a Python expert to assist in plotting data for enhanced visualization and analysis. The ideal candidate will help implement effective data visualization techniques.",
+        "experience_required": "Intermediate"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/need-virtual-assistant-use-artificial-intelligence_~021859707585692975444/",
+        "title": "I need a virtual assistant to use artificial intelligence",
+        "salary": "",
+        "company": "",
+        "location": "Arcadia, CA",
+        "skillset": "Data Science, Content Writing, Artificial Intelligence",
+        "date of posting": "2025-12-06",
+        "job_description": "Looking for an Assistant to Create 100 Books Using AI - Step-by-Step Guide Provided. I am looking for a dedicated assistant to help with this project.",
+        "experience_required": "Entry"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Developer-Needed-Complete-Diabetic-Retinopathy-Grading-Project_~021882430184327795918/",
+        "title": "AI Developer Needed to Complete Diabetic Retinopathy Grading Project",
+        "salary": "$3,000",
+        "company": "",
+        "location": "",
+        "skillset": "Machine Learning, AWS CodeDeploy, Docker, RESTful API, DICOM, Python, SQL, TensorFlow, OpenCV",
+        "date of posting": "2025-01-23",
+        "job_description": "We are seeking an experienced AI developer to take over and complete an ongoing Diabetic Retinopathy (DR) grading project.",
+        "experience_required": "Expert"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Engineer-with-Python-and-Net-experience_~021887044135175875898/",
+        "title": "AI Engineer with Python and .Net experience",
+        "salary": "$50",
+        "company": "",
+        "location": "",
+        "skillset": "Machine Learning, Google Cloud Platform, API, C#, Software Architecture & Design, Artificial Intelligence, Python",
+        "date of posting": "2025-02-05",
+        "job_description": "I need a quick advice from an experienced AI Engineer, with experience in Python, .NET and GCP. More details in private.",
+        "experience_required": "Expert"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/modeling-ASAP_~021887102142010646243/",
+        "title": "AI modeling ASAP",
+        "salary": "$100",
+        "company": "",
+        "location": "",
+        "skillset": "",
+        "date of posting": "2025-02-05",
+        "job_description": "I have a Ramadan collection and I went AI modeling. I only have 48 hours for it to be done.",
+        "experience_required": "Expert"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Advanced-Routing-Algorithm-Development-for-Cardano-DEX_~021887156938297601338/",
+        "title": "Advanced Routing Algorithm Development for Cardano DEX",
+        "salary": "Less than 30 hrs/week",
+        "company": "",
+        "location": "",
+        "skillset": "Machine Learning, DApps, Haskell, Algorithm Development, Java",
+        "date of posting": "2025-02-05",
+        "job_description": "I'm looking for a seasoned Cardano developer to create smart and advanced routing algorithms for a multichain meta DEX Aggregator on Cardano.",
+        "experience_required": "Expert"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Google-Earth-Engine-GIS-Expert-Needed-for-Sentinel-Sentinel-Image-Classification_~021887199459396711581/",
+        "title": "Google Earth Engine & GIS Expert Needed for Sentinel-1 & Sentinel-2 Image Classification",
+        "salary": "$20",
+        "company": "",
+        "location": "",
+        "skillset": "Machine Learning, Google Cloud Platform, Google Earth, Python, ArcGIS",
+        "date of posting": "2025-02-05",
+        "job_description": "Need quick help from a Google Earth Engine & GIS expert to adjust my existing code for Sentinel-1 & Sentinel-2 image classification.",
+        "experience_required": "Expert"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Pose-Estimation-Expert-Needed-for-Animal-Video-Image-Analysis-using-SLEAP-and-DeepLabCut-tools_~021887007434433000605/",
+        "title": "Pose Estimation Expert Needed for Animal Video/Image Analysis using SLEAP and DeepLabCut tools",
+        "salary": "Less than 30 hrs/week",
+        "company": "",
+        "location": "",
+        "skillset": "Machine Learning, TensorFlow, Computer Vision, Python",
+        "date of posting": "2025-02-05",
+        "job_description": "We are seeking a skilled freelancer with experience in using SLEAP and DeepLabCut for pose estimation on animal video and image data.",
+        "experience_required": "Intermediate"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Kaggle-Competition-Consultant-High-Frequency-Trading_~021886757444536003898/",
+        "title": "Kaggle Competition Consultant – High Frequency Trading",
+        "salary": "Less than 30 hrs/week",
+        "company": "",
+        "location": "",
+        "skillset": "Machine Learning, Derivatives Trading",
+        "date of posting": "2025-02-04",
+        "job_description": "If you have the skills and experience to build a top-tier Kaggle competition, we’d love to hear from you!",
+        "experience_required": "Expert"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Python-Developer-with-OpenAI-Expertise-for-based-Application-Development_~021887091729324190871/",
+        "title": "Python Developer with OpenAI Expertise for AI-based Application Development",
+        "salary": "$100",
+        "company": "",
+        "location": "",
+        "skillset": "Machine Learning, Django, Python, Natural Language Processing",
+        "date of posting": "2025-02-05",
+        "job_description": "I am looking for a skilled Python developer with experience in integrating OpenAI models (e.g., GPT-3, GPT-4, or other language models).",
+        "experience_required": "Expert"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/Classification-Markets-using-Python-and-Machine-Learning_~021887168730617354785/",
+        "title": "Classification of Markets using Python and Machine Learning",
+        "salary": "$200",
+        "company": "",
+        "location": "",
+        "skillset": "Machine Learning, Natural Language Processing, Python Scikit-Learn, Python",
+        "date of posting": "2025-02-05",
+        "job_description": "The goal of this project is to create a python program to automate the collection of data to define market segments.",
+        "experience_required": "Intermediate"
+      },
+      {
+        "url": "https://www.upwork.com/freelance-jobs/apply/personal-bot_~021887203670612145309/",
+        "title": "AI-Powered Autonomous Bot Developer",
+        "salary": "$200",
+        "company": "",
+        "location": "",
+        "skillset": "Machine Learning, Bot Development, Natural Language Processing, Chatbot Development, Python, Artificial Intelligence",
+        "date of posting": "2025-02-05",
+        "job_description": "AI-Powered Autonomous Bot Developer needed for self-learning, internet knowledge-based bot.",
+        "experience_required": "Intermediate"
+      },
+      {
+        "url": "http://example.com/job1",
+        "title": "Data Scientist",
+        "salary": "$100,000 - $120,000",
+        "company": "Company A",
+        "location": "New York, USA",
+        "skillset": "Python, SQL, Machine Learning",
+        "date of posting": "2022-01-15",
+        "job_description": "We are looking for a Data Scientist to analyze large datasets and provide insights.",
+        "experience_required": "2-5 years"
+      },
+      {
+        "url": "http://example.com/job2",
+        "title": "Machine Learning Engineer",
+        "salary": "$120,000 - $140,000",
+        "company": "Company B",
+        "location": "San Francisco, USA",
+        "skillset": "Python, TensorFlow, Data Analysis",
+        "date of posting": "2022-02-20",
+        "job_description": "Seeking a Machine Learning Engineer to develop predictive models.",
+        "experience_required": "3-6 years"
+      },
+      {
+        "url": "http://example.com/job3",
+        "title": "Data Analyst",
+        "salary": "£40,000 - £50,000",
+        "company": "Company C",
+        "location": "London, UK",
+        "skillset": "Excel, SQL, Data Visualization",
+        "date of posting": "2022-03-10",
+        "job_description": "Join our team as a Data Analyst to help us make data-driven decisions.",
+        "experience_required": "1-3 years"
+      },
+      {
+        "url": "http://example.com/job4",
+        "title": "Data Engineer",
+        "salary": "€70,000 - €90,000",
+        "company": "Company D",
+        "location": "Berlin, Germany",
+        "skillset": "Python, SQL, ETL",
+        "date of posting": "2022-04-05",
+        "job_description": "Looking for a Data Engineer to build and maintain data pipelines.",
+        "experience_required": "3-5 years"
+      },
+      {
+        "url": "http://example.com/job5",
+        "title": "Statistician",
+        "salary": "CAD 80,000 - CAD 100,000",
+        "company": "Company E",
+        "location": "Toronto, Canada",
+        "skillset": "R, Python, Statistical Analysis",
+        "date of posting": "2022-05-15",
+        "job_description": "We need a Statistician to analyze data and provide statistical insights.",
+        "experience_required": "2-4 years"
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+Top 10 Highest-Paying Jobs:
+
+152. Senior Python Engineer - $120000
+   Skillset: Python, AWS, Microservices
+   URL: https://www.hirist.tech/j/senior-python-engineer-5-7-yrs-1234568.html
+
+655. Machine Learning Engineer - $120000
+   Skillset: Python, TensorFlow, Data Analysis
+   URL: http://example.com/job2
+
+408. Senior Data Analyst (Machine Learning/Automation) - $118000
+   Skillset: Not Specified
+   URL: No URL
+
+429. Sr. Machine Learning Infrastructure Engineer, Tesla Bot - $116000
+   Skillset: Not Specified
+   URL: No URL
+
+420. Sr. Machine Learning Infrastructure Engineer, Tesla Bot - $116000
+   Skillset: Not Specified
+   URL: No URL
+
+156. Python Full Stack Developer - $110000
+   Skillset: Python, JavaScript, React
+   URL: https://www.hirist.tech/j/python-full-stack-developer-5-8-yrs-1234572.html
+
+654. Data Scientist - $100000
+   Skillset: Python, SQL, Machine Learning
+   URL: http://example.com/job1
+
+153. Python Data Scientist - $100000
+   Skillset: Python, Machine Learning, Data Analysis
+   URL: https://www.hirist.tech/j/python-data-scientist-2-4-yrs-1234569.html
+
+154. Python Backend Developer - $90000
+   Skillset: Python, Flask, SQL
+   URL: https://www.hirist.tech/j/python-backend-developer-4-6-yrs-1234570.html
+
+155. Python Automation Engineer - $85000
+   Skillset: Python, Selenium, Automation
+   URL: https://www.hirist.tech/j/python-automation-engineer-3-5-yrs-1234571.html
+
+Most Demanding Job Title: Python Developer
