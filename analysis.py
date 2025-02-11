@@ -42,7 +42,7 @@ def process_data(jobs):
 
 def plot_salary_vs_skillset(df):
     """Plots a bar chart of total salary by skillset"""
-    skillset_salary = df.groupby("skillset")["salary"].sum().sort_values(ascending=False).head(10)
+    skillset_salary = df.groupby("skillset")["salary"].mean().sort_values(ascending=False).head(10)
     
     plt.figure(figsize=(12, 6))
     skillset_salary.plot(kind="bar", color="skyblue", edgecolor="black")
